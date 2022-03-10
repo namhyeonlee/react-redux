@@ -1,2 +1,2 @@
 # react-redux
-react redux 공부
+Learning how to work react-redux
